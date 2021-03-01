@@ -2,6 +2,6 @@ compiler.xml
 misc.xml
 uiDesigner.xml
 workspace.xml
-testing.xml
+testng.xml
 BlibliTrainBooking.iml
 ExecutionReport.html
