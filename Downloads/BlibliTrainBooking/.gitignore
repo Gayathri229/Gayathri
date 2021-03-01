@@ -1,7 +1,5 @@
-compiler.xml
-misc.xml
-uiDesigner.xml
-workspace.xml
+.idea
 testng.xml
 BlibliTrainBooking.iml
 ExecutionReport.html
+.DS_Store
